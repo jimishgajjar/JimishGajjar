@@ -24,7 +24,7 @@
             src="https://img.shields.io/twitter/follow/JimishGajjar?logo=twitter&style=for-the-badge"
             alt="JimishGajjar" /></a> </p>
 
-- 📫 How to reach me **gajjarjimish21@gmail.com**
+- 📫 How to reach me **jimish.gajjar@gmail.com**
 <br><br>
 <hr>
 
